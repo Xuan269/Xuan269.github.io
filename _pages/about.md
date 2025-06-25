@@ -32,7 +32,7 @@ I'm currently a Master student at the S^3DI (Secure, Scalable, and ReSponsible I
   <ul>
   <li class="paper-box-new">
       <span class="sec-conference blue">Arxiv</span>
-      <strong>LLMs Cannot Reliably Judge (Yet?): A Comprehensive Assessment on the Robustness of LLM-as-a-Judge</strong>
+      <strong>TooBadRL: Trigger Optimization to Boost Effectiveness of Backdoor Attacks on Deep Reinforcement Learning</strong>
       ｜<a href="https://arxiv.org/abs/2506.09562"><strong>Pdf</strong></a>
       <br>
       <em>Songze Li*, Mingxuan Zhang*, Oubo Ma, Kang Wei, Shouling Ji</em>
